@@ -1,0 +1,3 @@
+
+//PxOUT |= BITy is the best way to SET a single bit.
+//PxOUT &= ~BITy is the best way to CLEAR a single bit.
